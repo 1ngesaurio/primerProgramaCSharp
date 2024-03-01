@@ -1,0 +1,16 @@
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\bin\Debug\net8.0-windows\primerPrograma.exe
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\bin\Debug\net8.0-windows\primerPrograma.deps.json
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\bin\Debug\net8.0-windows\primerPrograma.runtimeconfig.json
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\bin\Debug\net8.0-windows\primerPrograma.dll
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\bin\Debug\net8.0-windows\primerPrograma.pdb
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\obj\Debug\net8.0-windows\primerPrograma.Form1.resources
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\obj\Debug\net8.0-windows\primerPrograma.csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\obj\Debug\net8.0-windows\primerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\obj\Debug\net8.0-windows\primerPrograma.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\obj\Debug\net8.0-windows\primerPrograma.AssemblyInfo.cs
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\obj\Debug\net8.0-windows\primerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\obj\Debug\net8.0-windows\primerPrograma.dll
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\obj\Debug\net8.0-windows\refint\primerPrograma.dll
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\obj\Debug\net8.0-windows\primerPrograma.pdb
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\obj\Debug\net8.0-windows\primerPrograma.genruntimeconfig.cache
+C:\Users\Leo\Desktop\Leo2024\Proyectos\C#\primerPrograma\primerPrograma\obj\Debug\net8.0-windows\ref\primerPrograma.dll
